@@ -2,7 +2,6 @@ const Cart = require("../models/Cart");
 
 const cartItems = [
   
-  },
 ];
 
 exports.seedCart = async () => {
